@@ -3,6 +3,5 @@
 
 
 
-# github is fufuffnnnnnfun
-
+# github is fun
 print('hello')
